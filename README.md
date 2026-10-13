@@ -74,3 +74,6 @@ The question text is passed directly to `$vectorSearch` — MongoDB auto-embeds 
 - [documents/management/commands/](documents/management/commands) — `ingest_federal_register` and `search_docs` commands
 - [regulations_qa/](regulations_qa) — Django project settings and configuration
 - [mongo_migrations/](mongo_migrations) — Mongo-backed migrations for Django's built-in apps
+
+NB: The Data used comes from the Federal Register, which publishes US government documents. This project is independent and not affiliated with or endorsed by the Federal Register.
+
