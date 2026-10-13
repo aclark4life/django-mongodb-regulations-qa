@@ -1,0 +1,4 @@
+# requirements.txt
+django-mongodb-backend
+python-dotenv
+requests #to fetch documents from the Federal Register API.
